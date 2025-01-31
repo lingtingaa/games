@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  background: url('images/background.jpg') no-repeat center/cover;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial;
+}
+
+.game-container {
+  text-align: center;
+}
+
+button {
+  font-size: 50px;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 10px;
+  cursor: pointer;
+}
